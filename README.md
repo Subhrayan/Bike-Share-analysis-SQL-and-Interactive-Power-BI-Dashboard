@@ -82,16 +82,6 @@ Total revenue in 2022 = $10,227,384
  
  1.2) 18.19 % casual rider
  
-Conservative Increase: Considering the substantial increase last year, a more conservative increase
-
-might be prudent to avoid hitting a price ceiling where demand starts to drop. An increase in the range of
-
-10-15% could test the market's response without risking a significant loss of customers.
-
-Price Setting:
-
- If the price in 2022 was $4.99, a 10% increase would make the new price about $5.49.
-A 15% increase would set the price at approximately $5.74.
 
 
 ## Recommended Strategy:
