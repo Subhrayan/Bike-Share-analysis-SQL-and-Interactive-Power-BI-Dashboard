@@ -12,10 +12,10 @@ The analysis can be further carried out by adding hypothesis test to check stati
 
 ```mermaid
 graph TD;
-    'Create a Database'-->'Develop SQL queries';
-    'Develop SQL queries'-->'Connect Power Bi to Database';
-    'Connect Power Bi to Database'-->'Build a Dashboard in Power Bi';
-    'Build a Dashboard in Power Bi'-->'Answer the Analysis Question';
+    ('Create a Database')-->('Develop SQL queries');
+    ('Develop SQL queries')-->('Connect Power Bi to Database');
+    ('Connect Power Bi to Database')-->('Build a Dashboard in Power Bi');
+    ('Build a Dashboard in Power Bi')-->('Answer the Analysis Question');
 ```
 
 ### Steps followed 
