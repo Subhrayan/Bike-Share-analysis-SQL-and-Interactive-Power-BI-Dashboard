@@ -24,7 +24,7 @@ graph TD;
 - Step 2 : Developed sql queries to join tables,create columns and selecting relevant data for data analysis 
 - Step 3 : Connected Power Bi to database
 - Step 4 : Transformed data in Power query for data cleaning
-- Step 5 : Utilized DAX to crete new measures like profit margin, revenue per rider
+- Step 5 : Utilized DAX to create new measures like profit margin, revenue per rider
 - Step 6 : Builded Interactive dashboard in Power Bi
 - Step 7 : Answered the analysis question and included a recommendation
            
